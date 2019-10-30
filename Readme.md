@@ -1,7 +1,7 @@
 # Личный проект «TaskForce»
 
 * Студент: [Кирилл Шелег](https://up.htmlacademy.ru/yii/1/user/156259).
-* Наставник: `Evgeny_Savich`. 123
+* Наставник: `Evgeny_Savich`.
 
 ---
 
